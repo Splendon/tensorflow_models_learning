@@ -1,5 +1,5 @@
 # tensorflow_models_learning
-> 老铁要是觉得不错，给个“star”
+
 ## 1.生成record训练数据
 dataset已经包含了训练和测试的图片，请直接运行create_tf_record.py</br>
 > 对于InceptionNet V1:设置resize_height和resize_width = 224 </br>
